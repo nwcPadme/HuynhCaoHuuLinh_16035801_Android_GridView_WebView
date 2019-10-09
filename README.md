@@ -2,5 +2,6 @@
 Bài tập Android về GridView và WebView
 
 Hình ảnh Demo
-![alt text](https://imgur.com/dXGzwbt)
-![alt text](https://imgur.com/yE4ReGV)
+![alt text](https://i.imgur.com/dXGzwbt.png)
+![alt text](https://i.imgur.com/yE4ReGV.png)
+
